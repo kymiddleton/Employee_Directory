@@ -43,7 +43,3 @@ Create a program that does all of the following:
 8. If the command is `phoneLookup`:
   * prompt the user for a name
   * print the `phoneNum` for the name provided by user. 
-  
-
-
-
